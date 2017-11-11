@@ -152,9 +152,13 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+<<<<<<< HEAD
     <Content Include="Content\Images\Arizona.jpg" />
     <Content Include="Content\Images\Brazil.png" />
     <Content Include="Content\Images\New York.jpg" />
+=======
+    <Content Include="Content\imgs\jumbotron.jpg" />
+>>>>>>> fea3d38cdf407dd6a92e5e58635f370b2ebe05e1
     <Content Include="Content\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
