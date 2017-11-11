@@ -23,7 +23,14 @@ namespace MissionSite.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+            ViewBag.Subject = "Subject";
 
+            return View();
+        }
+
+        public ActionResult updateSubject()
+        {
+            ViewBag.Subject = "One";
             return View();
         }
     }
