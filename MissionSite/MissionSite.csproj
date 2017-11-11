@@ -152,10 +152,20 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+<<<<<<< HEAD
     <Content Include="Content\Images\Arizona.jpg" />
     <Content Include="Content\Images\Brazil.png" />
     <Content Include="Content\Images\New York.jpg" />
     <Content Include="Content\imgs\jumbotron.jpg" />
+=======
+
+    <Content Include="Content\Images\Arizona.jpg" />
+    <Content Include="Content\Images\Brazil.png" />
+    <Content Include="Content\Images\New York.jpg" />
+
+    <Content Include="Content\imgs\jumbotron.jpg" />
+
+>>>>>>> 5ef05e462f6a06f7ee4c4d26dcab2618b87f9699
     <Content Include="Content\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
